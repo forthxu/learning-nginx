@@ -1,6 +1,7 @@
 # Multiple Language Versions
-* [中文](zh.md)
-* [English](en.md)
+* [中文](nginx-development-guide-zh.md)
+* [English](nginx-development-guide-en.md)
+* [原项目](https://github.com/baishancloud/nginx-development-guide "Developer Guide")
 
 ## Acknowledgments
 
