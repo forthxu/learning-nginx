@@ -17,3 +17,7 @@
 - [Nginx 官方文档的中文翻译版](https://github.com/oopsguy/nginx-docs "Nginx 官方文档的中文翻译版")
 
 - [《微服务：从设计到部署》中文版](https://github.com/oopsguy/microservices-from-design-to-deployment-chinese "《微服务：从设计到部署》中文版")
+
+- [Nginx 源代码笔记](https://ialloc.org/categories.html#nginx-ref "Nginx 源代码笔记")
+
+- [Nginx源码阅读笔记](https://www.codedump.info/tags/nginx/ "Nginx源码阅读笔记")
